@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Smarth  
 
-💡 **Data Scientist** with experience across **Sports Analytics**, **Biomedical AI**, and **Autonomous Vehicle** domain
+💡 **Data Scientist** with experience across **Sports Analytics**, **Biomedical AI**, and **Autonomous Vehicle** domain  
 📜 **EU Patent Holder** – Patented algorithm in Data Science (based on my Master’s thesis)  
 🎓 **M.Sc. Informatics (Machine Learning & Analytics)** – Technical University of Munich  
-⚙️ Passionate about building **production-grade ML systems** that are scalable, modular, and impactful.  
+⚙️ Passionate about building **production-grade ML systems** that are scalable, modular, and impactful  
+
 
 ---
 

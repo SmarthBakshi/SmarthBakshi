@@ -18,8 +18,8 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 
 ## 📌 Featured Projects  
 
-### 1️⃣ [⚽ Football Stream Processor](https://github.com/SmarthBakshi/Stream-Processor) *(Sports Analytics)*  
-**Tech Stack:** Python, Pandas, PyVis, Streamlit, MLflow, StatsBomb Data  
+### 1️⃣ [⚽ Football Stream Processor](https://github.com/SmarthBakshi/Stream-Processor)
+**Tech Stack:** Python, Poetry, Streamlit, MLflow, Optuna, Docker, CI/CD  
 - Real-time **match analytics & player passing network** visualizations  
 - Modular architecture with separate data ingestion, processing, and visualization layers  
 - Built with **production readiness** in mind, including structured logging & reproducibility  
@@ -27,15 +27,15 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 
 ---
 
-### 2️⃣ ClimaCast – ETL Weather Pipeline *(Work in Progress)*  
-**Tech Stack:** Apache Airflow, AWS S3, Pandas, Requests  
+### 2️⃣ [ClimaCast – ETL Weather Pipeline](https://github.com/SmarthBakshi/ETL-Weather) *(Work in Progress)*  
+**Tech Stack:** Apache Airflow, AWS S3, FastAPI, Pandas, Requests  
 - **Production-grade ETL** for weather data  
 - Orchestrated with **Airflow DAGs**, stored in S3 for scalability  
 - Designed to showcase **data engineering best practices**
   
 ---
 
-### 4️⃣ RAG-Powered Document Assistant *(Coming Soon)*  
+### 3️⃣ RAG-Powered Research Paper Curator *(Coming Soon)*  
 **Tech Stack:** LangChain, FAISS, OpenAI API, Streamlit  
 - **Retrieval-Augmented Generation** for contextual Q&A  
 - Modular design for swapping vector DBs and LLMs  
@@ -45,19 +45,23 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 
 ## 🛠️ Tech Stack & Tools  
 
-**Languages:** Python, SQL, R  
-**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, XGBoost  
-**Data Engineering:** Airflow, Spark, AWS S3, Docker, REST APIs  
-**Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau  
-**MLOps:** MLflow, CI/CD (GitHub Actions), Docker, Testing  
-**Other:** Git, Jira, Agile/Scrum  
+**Programming Languages:** Python, SQL, Bash, C++  
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NLTK, XGBoost  
+**Data & Infrastructure Engineering:** Apache Airflow, ETL Pipelines, Apache Spark, Databricks, REST APIs, APIs for AI training  
+**Cloud & DevOps:** AWS, CI/CD (GitHub Actions), Docker, Linux, Shell Scripting, Git  
+**Databases & Warehousing:** PostgreSQL, MongoDB, SQLAlchemy, AWS S3  
+**Visualization & BI Tools:** Matplotlib, Seaborn, Plotly, Power BI, Tableau, Excel  
+**Frameworks:** Flask, FastAPI, Angular  
+**Soft Skills:** Ownership, Organized, Collaborative, Effective Communicator, Agile & Resilient
 
 ---
 
 ## 📬 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smarthbakshi/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakshismarth.20@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakshismarth.20@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smarth.bakshi/)
+
 
 ---
 

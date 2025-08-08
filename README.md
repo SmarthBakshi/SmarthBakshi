@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Smarth  
 
-🎓 **M.Sc. Informatics (Machine Learning & Analytics)** – Technical University of Munich  
+💡 **Data Scientist** with experience across **Sports Analytics**, **Biomedical AI**, and **Autonomous Vehicle** domain
 📜 **EU Patent Holder** – Patented algorithm in Data Science (based on my Master’s thesis)  
-💡 Data Scientist with experience across **Sports Analytics**, **Biomedical AI**, and **Autonomous Vehicle Simulations**  
+🎓 **M.Sc. Informatics (Machine Learning & Analytics)** – Technical University of Munich  
 ⚙️ Passionate about building **production-grade ML systems** that are scalable, modular, and impactful.  
 
 ---
 
 ## 🚀 About Me  
 
-I design **scalable Python applications**, **real-time data pipelines**, and **machine learning models** that move from **research to production**.  
-My work balances **technical depth** with **real-world applicability**, delivering solutions that are both **technically sound** and **commercially viable**.
+I build **scalable Python applications**, **real-time data pipelines**, and **end-to-end projects** in **machine learning**, **data science**, and **Generative AI**. Every solution follows **industry-standard best practices**, combining **technical depth** with **real-world impact** to deliver results that are both **robust** and **commercially viable**.
+
 
 
 ---
@@ -22,7 +22,7 @@ My work balances **technical depth** with **real-world applicability**, deliveri
 - Real-time **match analytics & player passing network** visualizations  
 - Modular architecture with separate data ingestion, processing, and visualization layers  
 - Built with **production readiness** in mind, including structured logging & reproducibility  
-![Demo](link-to-gif-or-screenshot)
+![Demo](https://www.youtube.com/watch?v=oa1YaRwfkO4&ab_channel=SmarthBakshi)
 
 ---
 

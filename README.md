@@ -27,19 +27,19 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 
 ---
 
-### 2️⃣ [ClimaCast – ETL Weather Pipeline](https://github.com/SmarthBakshi/ETL-Weather) *(Work in Progress)*  
-**Tech Stack:** Apache Airflow, AWS S3, FastAPI, Pandas, Requests  
-- **Production-grade ETL** for weather data  
-- Orchestrated with **Airflow DAGs**, stored in S3 for scalability  
-- Designed to showcase **data engineering best practices**
-  
----
-
-### 3️⃣ [ResearchAI](https://github.com/SmarthBakshi/Research-AI) *(Work in Progress)*  
+### 2️⃣ [ResearchAI](https://github.com/SmarthBakshi/Research-AI) *(Work in Progress)*  
 **Tech Stack:** FastAPI, Apache Airflow, OpenSearch (BM25 + vectors), PostgreSQL, MinIO, Gradio, Docker Compose, Poetry *(Ollama planned)*  
 - **Production-grade RAG** with **hybrid retrieval** (BM25 + embeddings); infra-first Docker setup with service health checks  
 - **Automated ingestion** (arXiv → MinIO/Postgres) via **Airflow**; **modular OOP** design for swappable chunkers, embedders, and vector stores  
 - **API + UI:** FastAPI `/ask` with **cited answers** (WIP), Gradio frontend, CI scaffolding; evals via **Recall@k/MRR**; VPS-ready deployment
+  
+---
+
+### 3️⃣ [ClimaCast – ETL Weather Pipeline](https://github.com/SmarthBakshi/ETL-Weather) *(Work in Progress)*  
+**Tech Stack:** Apache Airflow, AWS S3, FastAPI, Pandas, Requests  
+- **Production-grade ETL** for weather data  
+- Orchestrated with **Airflow DAGs**, stored in S3 for scalability  
+- Designed to showcase **data engineering best practices**
 
 
 ---

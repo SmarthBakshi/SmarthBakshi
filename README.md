@@ -35,11 +35,12 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
   
 ---
 
-### 3️⃣ RAG-Powered Research Paper Curator *(Coming Soon)*  
-**Tech Stack:** LangChain, FAISS, OpenAI API, Streamlit  
-- **Retrieval-Augmented Generation** for contextual Q&A  
-- Modular design for swapping vector DBs and LLMs  
-- Designed for **enterprise-scale document processing**  
+### 3️⃣ [ResearchAI](https://github.com/SmarthBakshi/Research-AI) *(Work in Progress)*  
+**Tech Stack:** FastAPI, Apache Airflow, OpenSearch (BM25 + vectors), PostgreSQL, MinIO, Gradio, Docker Compose, Poetry *(Ollama planned)*  
+- **Production-grade RAG** with **hybrid retrieval** (BM25 + embeddings); infra-first Docker setup with service health checks  
+- **Automated ingestion** (arXiv → MinIO/Postgres) via **Airflow**; **modular OOP** design for swappable chunkers, embedders, and vector stores  
+- **API + UI:** FastAPI `/ask` with **cited answers** (WIP), Gradio frontend, CI scaffolding; evals via **Recall@k/MRR**; VPS-ready deployment
+
 
 ---
 

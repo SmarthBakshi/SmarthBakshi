@@ -19,11 +19,15 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 ## 📌 Featured Projects  
 
 ### 1️⃣ [⚽ Football Stream Processor](https://github.com/SmarthBakshi/Stream-Processor)
-**Tech Stack:** Python, Poetry, Streamlit, MLflow, Optuna, Docker, CI/CD  
-- Real-time **match analytics & player passing network** visualizations  
-- Modular architecture with separate data ingestion, processing, and visualization layers  
-- Built with **production readiness** in mind, including structured logging & reproducibility  
-![Demo](https://www.youtube.com/watch?v=oa1YaRwfkO4&ab_channel=SmarthBakshi)
+**Tech Stack:** Python, Poetry, Streamlit, MLflow, Optuna, Docker, CI/CD
+- Real-time **match analytics** and **player pass network** visualizations
+- **End-to-end ML pipeline** for **pass outcome prediction**, trained using match event data
+- Integrated with **MLflow** for model tracking & reproducibility, and **Optuna** for hyperparameter optimization
+- Modular architecture: separate data ingestion, processing, modeling, and visualization layers
+- Built with **production-readiness** in mind — includes structured logging, environment isolation, and CI workflows
+
+🎥 **[Watch Full Demo Video](https://www.youtube.com/watch?v=oa1YaRwfkO4)**  
+
 
 ---
 

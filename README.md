@@ -37,7 +37,7 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 - **Automated ingestion** (arXiv → MinIO/Postgres) via **Airflow**; **modular OOP** design for swappable chunkers, embedders, and vector stores  
 - **API + UI:** FastAPI `/ask` with **cited answers** (WIP), Gradio frontend, CI scaffolding; evals via **Recall@k/MRR**; VPS-ready deployment
 
-📋 **[Read the blog]([https://www.youtube.com/watch?v=oa1YaRwfkO4](https://medium.com/@bakshismarth.20/researchai-building-my-production-grade-rag-system-for-scientific-literature-5f032f81e5bf))**  
+📋 **[Read the blog](https://medium.com/@bakshismarth.20/researchai-building-my-production-grade-rag-system-for-scientific-literature-5f032f81e5bf)**  
 
 
 ---

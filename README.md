@@ -36,7 +36,8 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 - **Production-grade RAG** with **hybrid retrieval** (BM25 + embeddings); infra-first Docker setup with service health checks  
 - **Automated ingestion** (arXiv → MinIO/Postgres) via **Airflow**; **modular OOP** design for swappable chunkers, embedders, and vector stores  
 - **API + UI:** FastAPI `/ask` with **cited answers** (WIP), Gradio frontend, CI scaffolding; evals via **Recall@k/MRR**; VPS-ready deployment
-  
+
+📋 **[Read the blog](https://medium.com/@bakshismarth.20/researchai-building-my-production-grade-rag-system-for-scientific-literature-5f032f81e5bf)
 ---
 
 ### 3️⃣ [ClimaCast – ETL Weather Pipeline](https://github.com/SmarthBakshi/ETL-Weather) *(Work in Progress)*  
@@ -66,6 +67,7 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smarthbakshi/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakshismarth.20@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smarth.bakshi/)
+[![Medium](https://img.shields.io/badge/Medium-E4405F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bakshismarth.20/)
 
 
 ---

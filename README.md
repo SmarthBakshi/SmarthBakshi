@@ -48,20 +48,6 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 - Orchestrated with **Airflow DAGs**, stored in S3 for scalability  
 - Designed to showcase **data engineering best practices**
 
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-**Programming Languages:** Python, SQL, Bash, C++  
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NLTK, XGBoost  
-**Data & Infrastructure Engineering:** Apache Airflow, ETL Pipelines, Apache Spark, Databricks, REST APIs, APIs for AI training  
-**Cloud & DevOps:** AWS, CI/CD (GitHub Actions), Docker, Linux, Shell Scripting, Git  
-**Databases & Warehousing:** PostgreSQL, MongoDB, SQLAlchemy, AWS S3  
-**Visualization & BI Tools:** Matplotlib, Seaborn, Plotly, Power BI, Tableau, Excel  
-**Frameworks:** Flask, FastAPI, Angular  
-**Soft Skills:** Ownership, Organized, Collaborative, Effective Communicator, Agile & Resilient
-
 ---
 
 ## 📬 Connect with Me  

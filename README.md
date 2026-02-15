@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Smarth  
 
-💡 **Data Scientist & Software Engineer** with experience across **Recruiting Softwares**, **Sports Analytics**, **Biomedical AI**, and **Autonomous Vehicle** domain  
+💡 **Data Scientist & Software Engineer** with experience across **Recruiting Softwares**, **Sports Analytics**, and **Biomedical AI**
 📜 **Patent Holder** – Patented algorithm in Data Science (based on my Master’s thesis)
 🎓 **M.Sc. Informatics (Machine Learning & Analytics)** – Technical University of Munich  
 ⚙️ Passionate about building **production-grade GenAI & ML application systems** that are scalable, modular, and impactful

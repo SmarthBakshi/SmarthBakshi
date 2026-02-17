@@ -25,7 +25,7 @@ I build **scalable Python applications**, **real-time data pipelines**, and **en
 - **API + UI:** FastAPI `/ask` with **cited answers** (WIP), Gradio frontend, CI scaffolding; evals via **Recall@k/MRR**; VPS-ready deployment
 
 🌐 **[Live Demo](https://researchai-ui-339551726466.europe-west3.run.app)** <br>
-🎥 **[Watch Full Demo Video]([https://www.youtube.com/watch?v=oa1YaRwfkO4](https://www.youtube.com/watch?v=twXECdaWkBg))** <br>
+🎥 **[Watch Full Demo Video](https://www.youtube.com/watch?v=twXECdaWkBg)** <br>
 📋 **[Read the blog](https://medium.com/@bakshismarth.20/researchai-building-my-production-grade-rag-system-for-scientific-literature-5f032f81e5bf)**
   
 
